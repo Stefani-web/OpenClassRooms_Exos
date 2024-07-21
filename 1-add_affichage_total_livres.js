@@ -5,7 +5,7 @@ totalLivres += 5
 
 console.log(totalLivres)
 
-let affichageTotalLivres = "Notre bibliothéque possède"
+let affichageTotalLivres = "Notre bibliothéque possède "
 affichageTotalLivres += totalLivres
 affichageTotalLivres += " livres "
 
